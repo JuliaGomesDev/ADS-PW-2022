@@ -1,0 +1,16 @@
+.titulo {
+  margin: 1rem;
+  font-family: sans-serif;
+  font-size: 5rem;
+  color: #1b7754;
+}
+
+.numbers {
+  font-size: 60px;
+  margin: 1rem;
+  width: 70%;
+  text-align: center;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #1b7754;
+}
